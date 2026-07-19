@@ -56,6 +56,15 @@ Utils/
 ```
 
 ---
+## 📄 Documentation
+
+Detailed project documentation, including UML diagrams and system analysis, is available in the **docs** folder.
+
+## 📸 Screenshots
+
+Application screenshots are available in the **screenshots** folder.
+
+---
 
 # 👨‍💻 Author
 
